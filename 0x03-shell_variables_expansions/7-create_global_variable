@@ -1,3 +1,2 @@
-#!/bin/bash
+#!/bin/bask
 export BEST="School"
-export School="BEST"
